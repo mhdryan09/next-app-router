@@ -1,9 +1,10 @@
-import Navbar from "./navbar"
 
 const AboutPage = () => {
-  return (
-    <Navbar></Navbar>
-  )
-}
+	return (
+		<>
+			<h1>About Page</h1>
+		</>
+	);
+};
 
-export default AboutPage
+export default AboutPage;
